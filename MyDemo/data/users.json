@@ -1,0 +1,12 @@
+{
+    "accountInfo": [
+		{
+			"accountNumber": "12345678912345",
+			"firstName": "Shayan",
+			"lastName": "Paul",
+			"currency": "INR",
+			"branchName": "Champadali More",
+			"amount": "21,225.21"
+		}
+	]
+}
