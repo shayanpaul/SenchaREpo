@@ -28,13 +28,5 @@ Ext.define("AccountInfo.controller.mainMenuController",{
 		Ext.getCmp('mainView').setActiveItem({
 			xclass : 'AccountInfo.view.accountSummary'	
 		});
-		/*Ext.getCmp("accountDetailsTbl").setData({
-		        "firstName": "Shayan",
-		        "lastName": "Paul",
-		        "currency": "INR",
-		        "branchName": "Champadali More",
-		        "amount": "21,225.21",
-		        "accountNumber": "12345678912345"
-    });*/
 	}
 });
